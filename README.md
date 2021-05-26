@@ -1,6 +1,6 @@
  Teachable Machine Image Project
 ---
-## **주제 :
+주제 :
 ```
 주제선정이유
 ```
