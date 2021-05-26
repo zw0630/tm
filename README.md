@@ -10,3 +10,6 @@ IT 아카데미
 -------------
 ### 느낀 점
 느낀 점
+
+# Teachable Machine Image Project
+---
