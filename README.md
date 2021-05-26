@@ -31,6 +31,9 @@
 + 분류될 laber에 해당하는 class명을 각각 마스크 착용, 마스크 미착용으로 변경
 + class별로 마스크를 착용하고 있는 사람의 이미지, 착용하지 않은 사람의 이미지 업로드
 
+![마스크 착용](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.healthychildren.org%2FSiteCollectionImagesArticleImages%2Fyoung-girl-with-hand-made-face-mask.jpg%3FRenditionID%3D6&imgrefurl=https%3A%2F%2Fwww.healthychildren.org%2FEnglish%2Fhealth-issues%2Fconditions%2FCOVID-19%2FPages%2FMask-Mythbusters.aspx&tbnid=XIHmBFAWxQoumM&vet=12ahUKEwiy1IDPqOfwAhUEc5QKHbowA-gQMygVegUIARCgAg..i&docid=I_3EP064b6zH1M&w=1200&h=1200&q=mask&ved=2ahUKEwiy1IDPqOfwAhUEc5QKHbowA-gQMygVegUIARCgAg)
+![마스크 미착용](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg1.daumcdn.net%2Fthumb%2FR720x0.q80%2F%3Fscode%3Dmtistory2%26fname%3Dhttp%253A%252F%252Fcfile21.uf.tistory.com%252Fimage%252F99F5E2375E099993185C19&imgrefurl=https%3A%2F%2Fbioinformaticsandme.tistory.com%2F272&tbnid=AtpzDAjBX7YnoM&vet=12ahUKEwjl7rH5qOfwAhXTAqYKHc2yCRQQMygnegUIARCMAg..i&docid=_goHGSmc0SUAqM&w=720&h=721&q=%E3%85%94%E3%84%B7%E3%84%B1%EB%82%B4%E3%85%9C&ved=2ahUKEwjl7rH5qOfwAhXTAqYKHc2yCRQQMygnegUIARCMAg)
+
 ### 3. 학습 후 테스트
 
 |실제 착용 여부|OUTPUT|
