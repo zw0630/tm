@@ -35,7 +35,7 @@
 
 👆 마스크 착용 이미지
 
-<img src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI" height="200px" width="330px">
+<img src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI" height="200px" width="310px">
 
 👆 마스크 미착용 이미지
 
