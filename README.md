@@ -31,6 +31,14 @@
 + 분류될 laber에 해당하는 class명을 각각 마스크 착용, 마스크 미착용으로 변경
 + class별로 마스크를 착용하고 있는 사람의 이미지, 착용하지 않은 사람의 이미지 업로드
 
+<img src="https://www.bcbs.com/sites/default/files/styles/grid_horizontal_card_m/public/2020-10/Mask%20Roundup%20Image_0.png?h=b3660f0d&itok=qTr-rYSB" height="200px" width="350px">
+
+👆 마스크 착용 이미지
+
+<img src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI" height="200px" width="330px">
+
+👆 마스크 미착용 이미지
+
 ### 3. 학습 후 테스트
 
 |실제 착용 여부|OUTPUT| |
